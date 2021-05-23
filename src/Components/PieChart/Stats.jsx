@@ -50,7 +50,7 @@ function Stats() {
       <Header />
       <div className='btn'>
         <Link to='/'>
-          <Button type="link" onClick={provisionPageHandle}>
+          <Button type="ghost" onClick={provisionPageHandle}>
             Go to Page 1
           </Button>
         </Link>
