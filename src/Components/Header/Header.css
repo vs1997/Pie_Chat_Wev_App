@@ -1,0 +1,8 @@
+.heading_title {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    padding: 10px;
+    border: 2px solid;
+}

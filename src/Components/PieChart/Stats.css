@@ -1,0 +1,16 @@
+.stats {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pie_chart {
+    width: 80vw;
+}
+
+.pie_chart_diagram {
+    display: flex;
+    height: 360px;
+    padding: 20px;
+    background-color: darkgray;
+}
